@@ -143,4 +143,4 @@ A surrogate primary key (`id`) is used to ensure row-level uniqueness due to the
 
 ## Author
 
-K. Sriramkarthikeya
+K. Sriram Karthikeya
